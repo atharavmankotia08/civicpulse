@@ -2,7 +2,7 @@
 
 ### AI-powered civic problem reporting and resolution platform
 
-CivicFix is a web-based platform that allows citizens to report civic issues,
+CivicPulse is a web-based platform that allows citizens to report civic issues,
 track their status, and help authorities prioritize and resolve problems
 efficiently using AI-powered analysis.
 
@@ -33,7 +33,7 @@ track and prioritize efficiently.
 
 ## Solution
 
-CivicFix provides a centralized platform for reporting civic issues,
+CivicPulse provides a centralized platform for reporting civic issues,
 categorizing them, prioritizing them and tracking their resolution.
 
 ## Technologies
@@ -41,8 +41,8 @@ categorizing them, prioritizing them and tracking their resolution.
 - HTML
 - CSS
 - JavaScript
-- Python / Node.js
-- AI/ML
+- Python
+- Canva
 - Database
 
 
