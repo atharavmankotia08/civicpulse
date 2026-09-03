@@ -43,8 +43,5 @@ categorizing them, prioritizing them and tracking their resolution.
 -VS Code​
 - SQL​
 - Figma/Lovable.dev​
-
-​
-
-Claude​
+- Claude​
 
