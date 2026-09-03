@@ -38,11 +38,13 @@ categorizing them, prioritizing them and tracking their resolution.
 
 ## Technologies
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- Canva
-- Database
+- GitHub​
+- Python​
+-VS Code​
+- SQL​
+- Figma/Lovable.dev​
 
+​
+
+Claude​
 
